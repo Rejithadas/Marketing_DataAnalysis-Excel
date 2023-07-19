@@ -6,6 +6,8 @@ Codex, a German beverage company, recently launched its energy drink in 10 major
 #### Demographic Insights:
 * Male consumers show the highest preference for energy drinks, accounting for 60.38% of the total respondents. Female consumers follow with around 34.55%, and non-binary individuals make up about 5.07%.
 * The age group 19-30 has the highest preference for energy drinks, constituting 55.20% of the total respondents. The 31-45 age group follows with 23.76%, indicating a significant market opportunity among middle-aged adults.
+![CodeX Survey Analysis_page-0003](https://github.com/Rejithadas/Data-Analysis-_Food-Beverage-Industry/assets/101463488/c9bd3e42-72b6-4b9c-b1e4-4ac1d5ea6846)
+
 #### Frequency of Consumption:
 * Among respondents aged 19-30, "2-3 times a week" is the most preferred consumption frequency for energy drinks, with 19.17% of respondents indicating this preference. Surprisingly, the 15-18 age group also exhibits a similar preference.
 #### Reasons for Preference:
