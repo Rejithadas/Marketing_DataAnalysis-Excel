@@ -38,5 +38,3 @@ Codex, a German beverage company, recently launched its energy drink in 10 major
 * Brand reputation, taste/flavor enhancement, and product availability should be key focus areas for Codex to compete more effectively with other popular brands.
 * Incorporating natural or organic ingredients, exploring limited edition packaging, and incorporating vitamins and caffeine into the product can attract health-conscious consumers and enhance the overall product offering.
 
-
-https://github.com/Rejithadas/Data-Analysis-_Food-Beverage-Industry/blob/main/CodeX%20Survey%20Analysis.pdf
