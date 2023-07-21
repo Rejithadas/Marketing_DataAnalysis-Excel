@@ -30,6 +30,7 @@ Codex, a German beverage company, recently launched its energy drink in 10 major
 * Online ads are the most effective marketing channel, reaching 40.20% of the respondents, followed by TV commercials (26.88%) and outdoor billboards (12.26%).
 * Online ads are particularly effective for reaching the 19-30 age group, while TV commercials remain relevant for both young adults and the 31-45 age group.
 
+
 ![d4](https://github.com/Rejithadas/Data-Analysis-_Food-Beverage-Industry/assets/101463488/79ff6870-8796-4b35-ab5c-2b938f6d8725)
 
 ![d5](https://github.com/Rejithadas/Data-Analysis-_Food-Beverage-Industry/assets/101463488/1bf79bf7-b168-4611-9459-3a0e09ee98e1)
