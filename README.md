@@ -1,4 +1,4 @@
-# CODEX Food & Beverages Marketing Analysis  -                                                                                                                                                            Excel,Power Query,Pivot Table
+# CODEX Food & Beverages Marketing Analysis - Excel
 ## Report Summary:
 
 Codex, a German beverage company, recently launched its energy drink in 10 major cities across India. To gain valuable insights into the Indian market, they conducted a survey among 10,000 respondents. The findings from the survey provide essential information for the Marketing team to enhance brand awareness, refine product development, and create effective marketing strategies.
